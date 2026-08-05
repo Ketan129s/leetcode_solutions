@@ -6,12 +6,9 @@ class Solution {
             if(i==1)
             {
                 maxi++;
+                max=Math.max(maxi,max);
             }
-            if(maxi>max)
-            {
-                max=maxi;
-            }
-            if(i==0){
+            else{
                 maxi=0;
             }
         }
