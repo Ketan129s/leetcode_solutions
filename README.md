@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ketan129s/leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ketan129s/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ketan129s/leetcode_solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Ketan129s/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ketan129s/leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Ketan129s/leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ketan129s/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ketan129s/leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
