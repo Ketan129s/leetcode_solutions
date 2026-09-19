@@ -11,15 +11,9 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        try{
-            if(head.next==null)
-            {
-                return false;
-            }
-        }
-        catch(NullPointerException e)
+        if(head==null || head.next==null)
         {
-            System.out.println("Hello");
+            return false;
         }
         ListNode slow=head;
         ListNode fast=head;
